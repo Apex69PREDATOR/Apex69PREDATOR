@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Apex69PREDATOR
 - 👀 I’m interested in AI,Web Dev,Blockchain, making a bussisness
-- 🌱 I’m currently learning DSA,Next js
+- 🌱 I’m currently learning DSA,Next js,Pandas,Tenserflow
 - 💞️ I’m looking to collaborate on any company focusing on software developement
 - 📫 How to reach me -> just email me at arpana036@gmail.com 
 - 😄 Pronouns: ...
